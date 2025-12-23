@@ -31,34 +31,29 @@
     },
     "projects": [
       {
-        "title": "E-Commerce Platform",
-        "desc": "Complete digital transformation for retail business with 300% increase in online sales.",
-        "image": "/assets/img/screenshots/screenshot-1.jpg"
+        "title": "InCompass",
+        "desc": "Technology company branding and digital marketing solutions for innovation leadership.",
+        "image": "/assets/img/companies/company-4.jpg"
       },
       {
-        "title": "Brand Identity Design",
-        "desc": "Comprehensive brand development that established market leadership in tech industry.",
-        "image": "/assets/img/screenshots/screenshot-2.jpg"
+        "title": "ALMASA Real Estate",
+        "desc": "Complete digital transformation and brand identity for luxury real estate development.",
+        "image": "/assets/img/companies/company-1.jpg"
       },
       {
-        "title": "Digital Marketing Campaign",
-        "desc": "Multi-channel campaign that generated 500% ROI and expanded customer base globally.",
-        "image": "/assets/img/screenshots/screenshot-3.jpg"
+        "title": "CCI",
+        "desc": "Comprehensive brand development and marketing strategy for corporate consulting firm.",
+        "image": "/assets/img/companies/company-2.jpg"
       },
       {
-        "title": "Mobile App Development",
-        "desc": "User-centric mobile application with over 100K downloads in the first month.",
-        "image": "/assets/img/blog/blog-thumb-1.jpg"
+        "title": "Century Capital",
+        "desc": "Financial services brand identity and digital presence that established market trust.",
+        "image": "/assets/img/companies/company-3.jpg"
       },
       {
-        "title": "Website Redesign",
-        "desc": "Modern, responsive website that improved user engagement by 250%.",
-        "image": "/assets/img/blog/blog-thumb-2.jpg"
-      },
-      {
-        "title": "Social Media Strategy",
-        "desc": "Comprehensive social media presence that built community of 50K+ followers.",
-        "image": "/assets/img/blog/blog-thumb-3.jpg"
+        "title": "JEDAR Real Estate",
+        "desc": "Premium real estate brand identity and marketing campaigns for luxury properties.",
+        "image": "/assets/img/companies/company-5.jpg"
       }
     ]
   },
@@ -144,22 +139,44 @@
           "btnUrl": "#"
         },
         {
-          "title": "Brand Strategy",
-          "icon": "pe-7s-magic-wand",
-          "desc": "Comprehensive brand development to establish your unique market position and identity.",
+          "title": "Lead Generation",
+          "icon": "pe-7s-target",
+          "desc": "Strategic lead generation campaigns that identify and convert qualified prospects into customers.",
           "btnText": "Learn More",
           "btnUrl": "#"
         },
         {
-          "title": "Web Development",
-          "icon": "pe-7s-display2",
-          "desc": "Custom websites and applications designed to convert visitors into loyal customers.",
+          "title": "Social Media",
+          "icon": "pe-7s-share",
+          "desc": "Engaging content strategies and campaigns that build communities around your brand.",
           "btnText": "Learn More",
           "btnUrl": "#"
         }
       ],
       "image": "/assets/img/feature-image.png",
-      "featurePart2": []
+      "featurePart2": [
+        {
+          "title": "Event Essentials",
+          "icon": "pe-7s-date",
+          "desc": "Comprehensive event planning and marketing solutions that create memorable brand experiences.",
+          "btnText": "Learn More",
+          "btnUrl": "#"
+        },
+        {
+          "title": "Brand Identity",
+          "icon": "pe-7s-diamond",
+          "desc": "Distinctive visual identities that capture your brand's essence and resonate with your audience.",
+          "btnText": "Learn More",
+          "btnUrl": "#"
+        },
+        {
+          "title": "Media Production",
+          "icon": "pe-7s-video",
+          "desc": "Captivating video content that tells your brand story and connects with your audience emotionally.",
+          "btnText": "Learn More",
+          "btnUrl": "#"
+        }
+      ]
     }
   }
 }

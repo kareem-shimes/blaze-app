@@ -81,7 +81,7 @@ class Navbar extends Component {
                 ></i>
               ) : (
                 <i
-                  className="icofont-navigation-menu"
+                  className="fa fa-bars"
                   style={{ fontSize: '18px', color: '#ffffff' }}
                 ></i>
               )}
